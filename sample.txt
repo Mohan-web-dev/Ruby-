@@ -1,0 +1,4 @@
+Find each place a function is used, and check its def to make sure that you are giving it the right arguments.
+Research online what the seek function for file does. Try ri File, and see if you can figure it out from there.
+Then try ri "File#seek" to see what seek does.
+Research the shorthand notation +=, and rewrite the script to use += instead.
